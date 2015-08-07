@@ -3,18 +3,22 @@
 ## Install gulp globally:
 ```sh
 $ npm install --global gulp
+```
 
 ## Run gulp:
 ```sh
 $ gulp
+```
 
 ## Run gulp task:
 ```sh
 $ gulp <task>
+```
 
 # Observe:
 ```sh
 $ gulp watch
+```
 
 ## Sources :
 * http://gulpjs.com/
