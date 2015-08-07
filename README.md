@@ -5,7 +5,7 @@
 $ npm install --global gulp
 ```
 
-To use npm install ```sh --globall``` without sudo on osx : http://www.johnpapa.net/how-to-use-npm-global-without-sudo-on-osx/
+To use npm install ```sh --globall``` without sudo on osx : http://www.johnpapa.net/how-to-use-npm-global-without-sudo-on-osx/.
 
 ## Run gulp:
 ```sh
